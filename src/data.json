@@ -1,0 +1,10 @@
+[
+    { "id": 1, "country": "Ginger and Garlic Pizza", "location": "Hyderabad", "image": "Pizza1.jpg", "overview": "Begin your meal with this delicious ginger and garlic pizza" },
+    { "id": 2, "country": "Tomatoes and Mint Pizza ", "location": "Chandanagar", "image": "Pizza2.jpg", "overview": "Delicious tomatoes and mint adds extra flavour to your pizza" },
+    { "id": 3, "country": "Onion and Capsicum Pizza", "location": "Beeramguda", "image": "Pizza3.jpg", "overview": "Onion with capsicum toppings are always a foodie choice" },
+    { "id": 4, "country": "Cheesy Veg Pizza ", "location": "Gacchibowli", "image": "Pizza4.jpg", "overview": "Hand tossed with Extra cheese with overloaded vegetables " },
+    { "id": 5, "country": "Baked Veg  Overloaded ", "location": "Madhapur", "image": "Pizza5.jpg", "overview": "Hand tossed and extra baked with  overloaded vegetables" },
+    { "id": 6, "country": "Roasted Sweetcorn", "location": "Hitech City", "image": "Pizza6.jpg", "overview": "Colourfull Pizza  with extra vegetables and  hot and spicy sweetcorn" },
+    { "id": 7, "country": "Cheesy Veg Pizza ", "location": "Lingampally", "image": "Pizza7.jpg", "overview": "Double your taste with this overloaded cheesy pizza" },
+    { "id": 8, "country": "Pasta Pizza", "location": "Ramachandrapuram", "image": "Pizza8.jpg", "overview": "Pizza and pasta with overloaded vegs and cheese with pepper flavour" }
+]
